@@ -1,0 +1,101 @@
+se,lng_key,lng_value
+buttons/expand,buttons/expand,Större
+buttons/unexpand,buttons/unexpand,Mindre
+buttons/trails,buttons/trails,Ledar
+buttons/lock,buttons/lock,Lås
+buttons/find,buttons/find,Hitta
+buttons/show,buttons/show,Visa
+buttons/deselect,buttons/deselect,Välj ej
+buttons/showall,buttons/showall,Visa alla
+buttons/ok,buttons/ok,OK
+buttons/colors,buttons/colors,Färg
+buttons/color,buttons/color,Färg
+buttons/size,buttons/size,Storlek
+buttons/size_label,buttons/size_label,Storlek
+buttons/axes,buttons/axes,X och Y
+buttons/axesmc,buttons/axesmc,X och Y
+buttons/axis_x,buttons/axis_x,X axel
+buttons/axis_y,buttons/axis_y,Y axel
+buttons/stack,buttons/stack,Stapel
+buttons/more_options,buttons/more_options,Mer...
+buttons/opacity,buttons/opacity,Synlighet
+buttons/opacityNonselect,buttons/opacityNonselect,Synlighet av ej valda
+buttons/opacityRegular,buttons/opacityRegular,Vanlig synlighet
+buttons/presentation,buttons/presentation,Present
+buttons/about,buttons/about,Om
+buttons/speed,buttons/speed,Hastighet
+buttons/label,buttons/label,Etikett
+hints/bubbl/setminsize,hints/bubbl/setminsize,Min bubblar storlek:
+hints/bubbl/setmaxsize,hints/bubbl/setmaxsize,Max bubblar storlek:
+hints/bubbl/setsize,hints/bubbl/setsize,Storlek av bubblar:
+hints/mount/maxYvalue,hints/mount/maxYvalue,Max Y-tal:
+hints/mount/logXstops,hints/mount/logXstops,Log X-axel stoppas vid:
+hints/mount/howtostack,hints/mount/howtostack,Stapla berg:
+hints/mount/howtomerge,hints/mount/howtomerge,Slå ihop berg:
+hints/mount/xlimits,hints/mount/xlimits,X-axel gränser:
+hints/mount/probe,hints/mount/probe,X-linje: extrem fattighet på 1.85
+hints/mount/onlyshowthefollowing,hints/mount/onlyshowthefollowing,Dölj alla förutom:
+hints/min,hints/min,min
+hints/max,hints/max,max
+hints/dataWarning,hints/dataWarning,Data tvivel
+hints/dataWarning-little,hints/dataWarning-little,Data
+mount/maxYmode/immediate,mount/maxYmode/immediate,Direkt
+mount/maxYmode/latest,mount/maxYmode/latest,Senast
+mount/maxYmode/total,mount/maxYmode/total,Totalt
+mount/stacking/region,mount/stacking/region,Regioner
+mount/stacking/world,mount/stacking/world,Värld
+mount/stacking/none,mount/stacking/none,Inga
+mount/merging/region,mount/merging/region,Regioner
+mount/merging/world,mount/merging/world,Värld
+mount/merging/none,mount/merging/none,Inga
+mount/people,mount/people,människor
+mount/title,mount/title,Världsbefolkning per inkomst
+mount/extremepoverty,mount/extremepoverty,extrem fattighet
+mount/manualSorting,mount/manualSorting,Sortera grupper manuellt:
+popbyage/yearOldsIn,popbyage/yearOldsIn,-åringar i
+indicator/life_expectancy,indicator/life_expectancy,Livslängd
+indicator/gdp_p_cap_const_ppp2011_dollar,indicator/gdp_p_cap_const_ppp2011_dollar,BNP per invånare
+indicator/gdp_const_ppp2011_dollar,indicator/gdp_const_ppp2011_dollar,BNP totalt
+indicator/population,indicator/population,Befolkning
+indicator/geo.region,indicator/geo.region,Regionen
+indicator/geo,indicator/geo,Enskild
+indicator/time,indicator/time,Tid
+indicator/size,indicator/size,Stor eller liten
+indicator/geo.category,indicator/geo.category,Geo kategori
+indicator/geo.name,indicator/geo.name,Geo namn
+indicator/child_mortality_rate_per1000,indicator/child_mortality_rate_per1000,Barnadödlighet
+indicator/gini,indicator/gini,Gini-koefficient
+indicator/axis/_default,indicator/axis/_default,Konstant
+indicator/size/_default,indicator/size/_default,En storlek
+indicator/color/_default,indicator/color/_default,Enkel färg
+indicator/_indicators,indicator/_indicators,Tal
+indicator/_properties,indicator/_properties,Egenskaper
+indicator/economy,indicator/economy,Ekonomi
+indicator/inequality,indicator/inequality,Inkomst fördelningen och skillnad
+indicator/health,indicator/health,Hälsan
+indicator/fertility_rate,indicator/fertility_rate,Barn pro kvinna
+placeholder/search,placeholder/search,Sök
+unit/population,unit/population,människor
+unit/gdp_p_cap_const_ppp2011_dollar,unit/gdp_p_cap_const_ppp2011_dollar,$/år
+unit/gdp_const_ppp2011_dollar,unit/gdp_const_ppp2011_dollar,$/år
+unit/,unit/,
+unit/fertility_rate,unit/fertility_rate,
+unit/life_expectancy,unit/life_expectancy,År
+unit/time,unit/time,
+unit/child_mortality_rate_per1000,unit/child_mortality_rate_per1000,dödsfallen under 5 år per 1000 födslar
+unit/gini,unit/gini,
+unit/pixels,unit/pixels,px
+unit/mountainchart_hardcoded_income_per_day,unit/mountainchart_hardcoded_income_per_day,$/dag
+scaletype/linear,scaletype/linear,linjär
+scaletype/log,scaletype/log,log
+scaletype/genericLog,scaletype/genericLog,Generic log
+scaletype/time,scaletype/time,Tid
+scaletype/ordinal,scaletype/ordinal,Ordning
+check/adaptMinMaxZoom,check/adaptMinMaxZoom,Följ bubblar med zoom
+check/presentation,check/presentation,Göra texten stor och presentera
+check/removeLabelBox,check/removeLabelBox,Inga rutor på etikett
+region/americas,region/americas,Amerika
+region/asia,region/asia,Asien
+region/africa,region/africa,Afrika
+region/europe,region/europe,Europa
+region/all,region/all,Värld
