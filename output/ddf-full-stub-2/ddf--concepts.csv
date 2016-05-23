@@ -1,0 +1,26 @@
+concept,name,concept_type,domain,scales,drill_up,unit
+geographic_regions,Geographic regions,entity_set,geo,"[""ordinal""]",,
+landlocked,Landlocked,entity_set,geo,"[""ordinal""]",,
+main_religion_2008,Main religion 2008,entity_set,geo,"[""ordinal""]",,
+name,Name,string,,"[""ordinal""]",,
+unit,Unit,string,,,,
+geo,Geographic location,entity_domain,,"[""ordinal""]",,
+country,Country,entity_set,geo,"[""ordinal""]","[""geographic_regions"",""world_4region"",""main_religion_2008""]",
+en,English,entity_set,translations,,,
+se,Swedish,entity_set,translations,,,
+age,Age,measure,,"[""linear"",""log""]",,years
+world_4region,World Regions,entity_set,geo,"[""ordinal""]",,
+latitude,Latitude,measure,,"[""linear""]",,degrees
+longitude,Longitude,measure,,"[""linear""]",,degrees
+time,Time,entity_domain,,,,
+year,Year,entity_set,time,,,
+lng_key,Key,string,,,,
+lng_value,Value,string,,,,
+language,Language,string,,,,
+gapminder_list,Gapminder list,string,,,,
+code,CODE,string,,,,
+number,Number,string,,,,
+translations,Translations,entity_domain,,,,
+colonandrectum_cancer_number_of_female_deaths,"Colon&Rectum, deaths total",measure,,"[""linear"",""log""]",,
+desalinated_water_produced_billion_cu_meters,Desalinated water produced,measure,,"[""linear"",""log""]",,
+energy_supply_per_person_toe,Energy supply per person,measure,,"[""linear"",""log""]",,

@@ -1,0 +1,16 @@
+country,name,geographic_regions,landlocked,main_religion_2008,code,number,is--country,world_4region,latitude,longitude
+bhs,Bahamas,america,coastline,christian,BHS,44,TRUE,americas,25.04082,-77.37122
+bhr,Bahrain,middle_east_north_africa,coastline,muslim,BHR,48,TRUE,asia,26.03333,50.55
+bgd,Bangladesh,south_asia,coastline,muslim,BGD,50,TRUE,asia,24,90
+brb,Barbados,america,coastline,christian,BRB,52,TRUE,americas,13.16667,-59.53333
+blr,Belarus,europe_central_asia,landlocked,christian,BLR,112,TRUE,europe,53,28
+bel,Belgium,europe_central_asia,coastline,christian,BEL,56,TRUE,europe,50.75,4.5
+blz,Belize,america,coastline,christian,BLZ,84,TRUE,americas,17.49952,-88.19756
+ben,Benin,sub_saharan_africa,coastline,,BEN,204,TRUE,africa,9.5,2.25
+bmu,Bermuda,america,coastline,christian,BMU,60,TRUE,americas,32.2949,-64.78303
+btn,Bhutan,south_asia,landlocked,eastern_religions,BTN,64,TRUE,asia,27.5,90.5
+bol,Bolivia,america,landlocked,christian,BOL,68,TRUE,americas,-17,-65
+bih,Bosnia and Herzegovina,europe_central_asia,coastline,,BIH,70,TRUE,europe,44.25,17.83333
+bwa,Botswana,sub_saharan_africa,landlocked,christian,BWA,72,TRUE,africa,-22,24
+bouisl,Bouvet Island,,,,,,TRUE,africa,,
+bra,Brazil,america,coastline,christian,BRA,76,TRUE,americas,-10,-55
