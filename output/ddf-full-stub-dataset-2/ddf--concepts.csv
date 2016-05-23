@@ -1,0 +1,21 @@
+concept,name,concept_type,domain,scales,drill_up,unit
+geographic_regions,Geographic regions,entity_set,geo,"[""ordinal""]",,
+landlocked,Landlocked,entity_set,geo,"[""ordinal""]",,
+main_religion_2008,Main religion 2008,entity_set,geo,"[""ordinal""]",,
+name,Name,string,,"[""ordinal""]",,
+unit,Unit,string,,,,
+geo,Geographic location,entity_domain,,"[""ordinal""]",,
+country,Country,entity_set,geo,"[""ordinal""]","[""geographic_regions"",""income_groups"",""landlocked"",""g77_and_oecd_countries"",""geographic_regions_in_4_colors"",""main_religion_2008""]",
+age,Age,measure,,"[""linear"",""log""]",,years
+world_4region,World Regions,entity_set,geo,"[""ordinal""]",,
+latitude,Latitude,measure,,"[""linear""]",,degrees
+longitude,Longitude,measure,,"[""linear""]",,degrees
+global,World,entity_set,geo,"[""ordinal""]",,
+se,Swedish,entity_set,translations,,,
+lng_key,Key,string,,,,
+lng_value,Value,string,,,,
+language,Language,string,,,,
+gapminder_list,Gapminder list,string,,,,
+code,CODE,string,,,,
+number,Number,string,,,,
+translations,Translations,entity_domain,,,,
