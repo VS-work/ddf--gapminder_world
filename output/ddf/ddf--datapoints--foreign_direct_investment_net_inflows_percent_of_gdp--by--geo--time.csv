@@ -781,13 +781,13 @@ foreign_direct_investment_net_inflows_percent_of_gdp,geo,time
 0.05046,bdi,1993
 0.0004279,bdi,1994
 0.1981,bdi,1995
-1.151e-05,bdi,1996
-1.028e-05,bdi,1997
+0.00001151,bdi,1996
+0.00001028,bdi,1997
 0.2238,bdi,1998
 0.02953,bdi,1999
 1.648,bdi,2000
 0.001455,bdi,2001
-1.711e-06,bdi,2002
+0.000001711,bdi,2002
 0.0007762,bdi,2003
 0.006698,bdi,2004
 0.07342,bdi,2005
@@ -1281,8 +1281,8 @@ foreign_direct_investment_net_inflows_percent_of_gdp,geo,time
 0.0002458,cub,1972
 -0.002503,cub,1973
 -0.0002901,cub,1976
-5.022e-05,cub,1980
-4.772e-05,cub,1982
+0.00005022,cub,1980
+0.00004772,cub,1982
 0.0004503,cub,1983
 0.0007904,cub,1984
 0.000698,cub,1985
@@ -2780,7 +2780,7 @@ foreign_direct_investment_net_inflows_percent_of_gdp,geo,time
 0.007266,kwt,1991
 0.1778,kwt,1992
 0.05535,kwt,1993
-4.024e-05,kwt,1994
+0.00004024,kwt,1994
 0.02464,kwt,1995
 1.103,kwt,1996
 0.06517,kwt,1997
@@ -4298,7 +4298,7 @@ foreign_direct_investment_net_inflows_percent_of_gdp,geo,time
 5.82,qat,2007
 3.413,qat,2008
 8.264,qat,2009
-2.611e-05,rou,1990
+0.00002611,rou,1990
 0.1387,rou,1991
 0.3069,rou,1992
 0.3566,rou,1993
@@ -4918,7 +4918,7 @@ foreign_direct_investment_net_inflows_percent_of_gdp,geo,time
 0.01739,lka,1973
 0.03917,lka,1974
 0.003764,lka,1975
-2.784e-05,lka,1976
+0.00002784,lka,1976
 -0.02969,lka,1977
 0.05394,lka,1978
 1.394,lka,1979
